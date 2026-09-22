@@ -20,4 +20,5 @@ This is a family release, not a single model: Sol as the flagship, Terra as the 
 
 *This is an independent page with no affiliation to OpenAI, and all product names and trademarks mentioned belong to their respective owners.*
 
+
 _Last reviewed: 2026-09-22_
